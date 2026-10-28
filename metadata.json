@@ -1,0 +1,6 @@
+{
+  "name": "RetroBat & Game Library Manager Pro",
+  "description": "Gestor avanzado y escáner de bibliotecas de videojuegos para Windows, Linux y Web con soporte multidisco, dependencias, detección 1G1R, exportación USB y listas personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
